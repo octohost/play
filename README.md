@@ -1,7 +1,7 @@
-Play
+Play Framework
 =========
 
-Base [Play](http://www.playframework.com/) container for octohost.
+Base [Play Framework](http://www.playframework.com/) container for octohost.
 
 To use an already built container:
 
@@ -10,3 +10,5 @@ To use an already built container:
 Or you can build it from this source:
 
 `docker build -t your-organization/play`
+
+To view a Play Framework app [take a look here](https://github.com/octohost/play-app).
